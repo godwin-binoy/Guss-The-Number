@@ -4,9 +4,9 @@ import random
 import math
 
 while True :
-    print('\nEnter Lower range of number')
+    print('\nEnter Lower range of number\n')
     lower_range = input('  : ')
-    print('\nEnter Higher range of number')
+    print('\nEnter Higher range of number\n')
     higher_range = input('  : ')
     count =  0
 
