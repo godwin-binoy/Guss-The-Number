@@ -11,4 +11,4 @@ This a command line based Number Gussing game coded in python.
 
 You can enter 'reset' to reset the both higher and lower range. Enter 'exit' to exit program.
 
-Author: https://github.com/Godwin-Binoy
+Author : https://github.com/Godwin-Binoy
